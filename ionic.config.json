@@ -1,0 +1,7 @@
+{
+  "name": "responsi-ppm-2",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
